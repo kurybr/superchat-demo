@@ -1,0 +1,8 @@
+{
+  "name": "superchat-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kurybr/superchat-demo.git",
+  "author": "Jorge Soares <jorge.soaers@local>",
+  "license": "MIT"
+}
